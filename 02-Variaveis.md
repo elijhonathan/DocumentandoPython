@@ -25,10 +25,12 @@ Letras maiusculas e minusculas diferem as variaveis também, exemplo:
 - NOME = 3
 - NomE = 4
 
-São quatro variaveis diferente, se usarmos o comando "print(nome + Nome + NOME + NoMe)" o resultado será 10.diferencaMaiusculasMinusculas
+São quatro variaveis diferente, se usarmos o comando "print(nome + Nome + NOME + NoMe)" o resultado será 10.
 
 ![VariaveisNomes](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/declarandoVariasaoMesmoTempo.jpg)
 
 Podemos declarar varias variaveis ao mesmo tempo basta separar o nome das variaveis por `,` e seus valores também, lembrando que os valores podem ser texto basta coloca-los entre aspas.declarandoVariasaoMesmoTempoComTexto
 
 ![VariaveisNomesTexto](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/declarandoVariasaoMesmoTempoComTexto.jpg)
+
+35:22
