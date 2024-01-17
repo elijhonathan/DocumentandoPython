@@ -10,6 +10,6 @@ Comentários em linha devem usar `#`, para selecionar um paragrafo inteiro devem
 
 ![Executar Console Visual Code](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/ComoExecutarNoConsole.jpg)
 
-Para executar o programa no console do Visual Studio Code, basta escrever "python + diretorio do arquivo " se estiver dentro da pasta do arquivo fica como na imagem "python + .\nome do arquivo.py"
+Para executar o programa no console do Visual Studio Code, basta escrever "python + diretorio do arquivo " se estiver dentro da pasta do arquivo fica como na imagem "python + .\nome do arquivo.py" .
 
 
