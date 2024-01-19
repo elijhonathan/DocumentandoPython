@@ -33,4 +33,4 @@ Podemos declarar varias variaveis ao mesmo tempo basta separar o nome das variav
 
 ![VariaveisNomesTexto](https://github.com/elijhonathan/DocumentandoPython/blob/main/Arquivos/declarandoVariasaoMesmoTempoComTexto.jpg)
 
-35:22
+35:22.
